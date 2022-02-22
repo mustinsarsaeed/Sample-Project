@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sample Projects</string>
+    <string name="skip">Skip</string>
+    <string name="items">Items</string>
+
+    <string-array name="cityList">
+        <item>Lahore</item>
+        <item>Karachi</item>
+        <item>Pashwar</item>
+        <item>Islamabad</item>
+        <item>Rawalpindi</item>
+        <item>Multan</item>
+        <item>Faislabad</item>
+        <item>Sargodha</item>
+    </string-array>
+</resources>
