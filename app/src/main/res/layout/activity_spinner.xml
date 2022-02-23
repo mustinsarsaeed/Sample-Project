@@ -7,6 +7,7 @@
     android:background="#f0f0f0"
     tools:context=".SpinnerActivity">
 
+
     <RelativeLayout
         android:id="@+id/relativeLayout"
         android:layout_width="0dp"
@@ -29,7 +30,6 @@
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:layout_centerInParent="true"
-            android:layout_centerHorizontal="true"
             android:layout_marginTop="10dp"
             android:background="@drawable/spinner_style"
             android:overlapAnchor="false"
@@ -48,7 +48,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="10dp"
                 android:layout_marginTop="10dp"
-                android:text="Select Skills"
+                android:text="@string/select_city"
                 android:textColor="#838C91"
                 android:textSize="16sp" />
         </RelativeLayout>
